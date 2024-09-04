@@ -9,6 +9,7 @@ modèle de page docsify pour une publication via page sans actions
 ## Quand
   - date de création 2024
   - date de première présentation 2024
+  - heure de présentation 18h00 - 23h00
 
 ## Où
   - Village numérique de Mutek
