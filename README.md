@@ -6,7 +6,7 @@ modèle de page docsify pour une publication via page sans actions
   - Louis-Philippe Rondeau
 
 ## Quand
-  -2024
+  - 2024
 
 ## Où
 
