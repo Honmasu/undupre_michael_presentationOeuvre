@@ -4,6 +4,7 @@ modèle de page docsify pour une publication via page sans actions
 
 ## Qui
   - Louis-Philippe Rondeau
+  - soutien de l'école NAD/UQAC
 
 ## Quand
   - date de création 2024
