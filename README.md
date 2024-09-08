@@ -1,10 +1,13 @@
 # Redshift
-modèle de page docsify pour une publication via page sans actions 
-
 
 ## Qui
+
+  ### artist
   - Louis-Philippe Rondeau
+
+  ### Collaborateurs
   - soutien de l'école NAD/UQAC
+
 
 ## Quand
   - date de création 2024
@@ -14,7 +17,8 @@ modèle de page docsify pour une publication via page sans actions
 ## Où
   - Village numérique de Mutek
 
-## Quoi
-  Redshift est une installation interactive utilisant deux écrans, le spectateur se met devant entre les deux écrans, la lumière rouge en constant movement crée un effet de déformation.   
+## l'installation
+Redshift est une installation interactive utilisant deux écrans, le spectateur se met devant entre les deux écrans, la lumière rouge en constant movement crée un effet de déformation.
 
-## Comment
+![](https://i0.wp.com/patenteux.com/wp/wp-content/uploads/2024/08/PXL_20240823_002721177-copie-scaled.jpg?resize=1024%2C734)
+
