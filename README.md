@@ -19,7 +19,7 @@
 
 
 ## l'installation
-"Redshift" est une installation interactivequi combine la vidéo et du son. le thème de l'installation est l'exploration du cosmique et de la technologie.
-le nom Redshift est pris d'un phénomène astrologique où la lumière se décale lorsque les objets célestes s’éloignent.
+"Redshift" est une installation interactive qui combine la vidéo et du son. le thème de l'installation est l'exploration du cosmique et de la technologie. Le nom Redshift est pris d'un phénomène astrologique où la lumière se décale lorsque les objets célestes s’éloignent.
+
 ![](https://i0.wp.com/patenteux.com/wp/wp-content/uploads/2024/08/PXL_20240823_002721177-copie-scaled.jpg?resize=1024%2C734)
 
