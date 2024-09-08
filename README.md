@@ -4,6 +4,8 @@
 
   ### artist
   - Louis-Philippe Rondeau
+    ![image](https://github.com/user-attachments/assets/9f80b6a3-d9c0-404b-927c-af15f19b4367)
+
 
   ### Collaborateurs
   - soutien de l'école NAD/UQAC
