@@ -23,7 +23,7 @@
 
 ![](https://i0.wp.com/patenteux.com/wp/wp-content/uploads/2024/08/PXL_20240823_002721177-copie-scaled.jpg?resize=1024%2C734)
 
-## appréciation
+## apréciation
 
 Les oeuvres reliées au cosmos m'attirent souvent, l'oeuvre permet de se rapprocher d'un univers lointain. L'oeuvre traduit un concept scientifique complexe en art abstrait qui est plus accessible et compréhensible.
 
